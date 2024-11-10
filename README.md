@@ -1,8 +1,8 @@
-# DataMask Pro: Advanced Data Privacy & Anonymization Solution
+# DataMask: Advanced Data Privacy & Anonymization Solution
 
 ## 🌟 Project Overview
 
-DataMask Pro is a robust data anonymization and protection solution designed for modern, compliance-driven industries. Our innovative platform provides comprehensive PII (Personally Identifiable Information) detection and anonymization, leveraging cutting-edge technologies to ensure data privacy and regulatory compliance.
+DataMask is a robust data anonymization and protection solution designed for modern, compliance-driven industries. Our innovative platform provides comprehensive PII (Personally Identifiable Information) detection and anonymization, leveraging cutting-edge technologies to ensure data privacy and regulatory compliance.
 
 ## 🚀 Unique Value Proposition
 
@@ -138,12 +138,6 @@ npm run dev
 - Enhanced machine learning models
 - Mobile-friendly interface
 - Customizable masking policies
-
-## 📝 License
-[Specify your license here]
-
-## 👥 Contributors
-[List contributors or contribution guidelines]
 
 ## 🤝 Support
 For support, please open an issue in the GitHub repository or contact our support team.
